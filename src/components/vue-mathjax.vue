@@ -78,5 +78,6 @@ export default {
   margin-bottom: 5px;
   background-color: #eee;
   min-height: 33px;
+  max-width: 40%;
 }
 </style>
